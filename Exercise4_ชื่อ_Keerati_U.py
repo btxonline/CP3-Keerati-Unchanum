@@ -1,0 +1,10 @@
+foundation_english = float(90)
+general_business = float(91)
+introduction_to_computer_systems = float(89)
+computer_programming = float(79)
+
+print('--- Your Score ---')
+print('Foundation English :',foundation_english)
+print('General Business :',general_business)
+print('Introduction to Computer Systems',general_business)
+print('Computer Programming :',computer_programming)
